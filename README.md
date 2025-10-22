@@ -6,6 +6,13 @@ I'm a systems engineer and automation enthusiast with a strong focus on building
 
 ---
 
+## Credly Badges
+
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
+
+---
+
 ## 🛠️ Tech Stack & Interests
 
 - **Infrastructure as Code**: Terraform, Ansible, Bash
