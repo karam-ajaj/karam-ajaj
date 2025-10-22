@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GitHub Badge Page</title>
+    <link rel="stylesheet" href="/styles/main.css">
+</head>
+<body>
+    <header>
+        <h1>GitHub Badge Generator</h1>
+    </header>
+    <main>
+        <section>
+            <h2>Your Badges</h2>
+            <div id="badge-container">
+                <% badges.forEach(function(badge) { %>
+                    <div class="badge">
+                        <img src="<%= badge.imageUrl %>" alt="<%= badge.altText %>">
+                        <p><%= badge.description %></p>
+                    </div>
+                <% }); %>
+            </div>
+        </section>
+        <section>
+            <h2>Generate a New Badge</h2>
+            <form action="/generate-badge" method="POST">
+                <label for="badgeText">Badge Text:</label>
+                <input type="text" id="badgeText" name="badgeText" required>
+                <button type="submit">Create Badge</button>
+            </form>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2023 GitHub Badge Page</p>
+    </footer>
+</body>
+</html>
