@@ -104,7 +104,11 @@ Documentation portal for internal and freelance projects, powered by Docusaurus.
 ⭐ Check out my repositories and feel free to reach out or contribute!
 
 
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=karam-ajaj&show_icons=true&theme=highcontrast)
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=karam-ajaj&show_icons=true&theme=highcontrast) -->
 
 ![](https://hit.yhype.me/github/profile?account_id=37446151)
+
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=karam-ajaj&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=karam-ajaj&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=karam-ajaj&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/wakatime?username=karamajaj&theme=radical)
