@@ -111,4 +111,4 @@ Documentation portal for internal and freelance projects, powered by Docusaurus.
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=karam-ajaj&show_icons=true&theme=radical)
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=karam-ajaj&theme=radical)
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=karam-ajaj&layout=compact&theme=radical)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/wakatime?username=karamajaj&theme=radical)
+<!-- ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/wakatime?username=karamajaj&theme=radical) -->
