@@ -10,7 +10,6 @@ I'm a systems engineer and automation enthusiast with a strong focus on building
 
 <!--START_SECTION:badges-->
 [![CKA: Certified Kubernetes Administrator](https://images.credly.com/size/80x80/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](https://www.credly.com/badges/83866c55-20f3-4213-bf06-b666a70556be)
-[![HashiCorp Certified: Terraform Associate (003)](https://images.credly.com/size/80x80/images/0dc62494-dc94-469a-83af-e35309f27356/blob)](https://www.credly.com/badges/2771045d-6b7e-4c0b-b200-9fa40fa82175)
 [![Double VCP - Cloud Management and Automation & VMware Cloud](https://images.credly.com/size/80x80/images/29d25a7a-a05d-4625-a3f8-cf60853f3485/image.png)](https://www.credly.com/badges/0569f76f-e67f-4ef6-85a4-3daae6449c7a)
 [![Double VCP - Cloud Management & Desktop Mobility](https://images.credly.com/size/80x80/images/1535e81b-09a3-4853-9e30-b3f01a1b0aaf/image.png)](https://www.credly.com/badges/8a106809-b214-4fb2-82ee-b7142a431446)
 [![Double VCP - Data Center Virtualization & Cloud Management](https://images.credly.com/size/80x80/images/b4c043e3-b159-41aa-849f-f6e3f9060ca3/image.png)](https://www.credly.com/badges/32b859a5-e15b-479f-b2f4-4254df260dde)
@@ -43,6 +42,7 @@ I'm a systems engineer and automation enthusiast with a strong focus on building
 [![VMware Certified Professional - Network Virtualization 2019](https://images.credly.com/size/80x80/images/b10dc0e6-817d-43e6-be3d-494de80920cf/vmware_cert_VCPNV19.png)](https://www.credly.com/badges/a9a08172-a4df-4639-b81b-d6237545fd43)
 [![VMware Certified Professional - Desktop and Mobility 2019](https://images.credly.com/size/80x80/images/57bd5005-1e3f-437e-a5e4-1bec6a3e4ae7/vmware_cert_VCPDM19.png)](https://www.credly.com/badges/61fe8889-209b-4496-8fe4-45d6bd04e66d)
 [![VMware vSphere 6.5 Foundations](https://images.credly.com/size/80x80/images/081d54b5-d010-4062-a323-b17758606f2a/vmware_knowledge_vsphere6.png)](https://www.credly.com/badges/ceb88606-1711-4034-99e4-31721fdbb6c5)
+[![HashiCorp Certified: Terraform Associate (003)](https://images.credly.com/size/80x80/images/0dc62494-dc94-469a-83af-e35309f27356/blob)](https://www.credly.com/badges/2771045d-6b7e-4c0b-b200-9fa40fa82175)
 [![Broadcom Partner Certification - Certified Expert - VCF Automation - Pre-Sales](https://images.credly.com/size/80x80/images/f012eba4-8fe7-4e77-87c5-961ff84d0de1/blob)](https://www.credly.com/badges/0acc810c-5965-48e3-bf84-cbf0726e7d6a)
 [![Broadcom Partner Certification - Certified Expert - VMware vSphere - Pre-Sales](https://images.credly.com/size/80x80/images/066b8c3d-b4c8-4573-88a3-8ef4427be99a/blob)](https://www.credly.com/badges/b857a767-04d5-48ea-ac1d-75a92b975109)
 [![Broadcom Partner Certification - Proven Professional - VCF Automation - Architecture](https://images.credly.com/size/80x80/images/271fc07e-8679-4b00-a790-3655394067e1/blob)](https://www.credly.com/badges/8041548b-dda2-4aeb-9ff7-1d429a51b806)
