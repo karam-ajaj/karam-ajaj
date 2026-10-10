@@ -9,7 +9,6 @@ I'm a systems engineer and automation enthusiast with a strong focus on building
 ## Credly Badges
 
 <!--START_SECTION:badges-->
-[![CKA: Certified Kubernetes Administrator](https://images.credly.com/size/80x80/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](https://www.credly.com/badges/83866c55-20f3-4213-bf06-b666a70556be)
 [![Double VCP - Cloud Management and Automation & VMware Cloud](https://images.credly.com/size/80x80/images/29d25a7a-a05d-4625-a3f8-cf60853f3485/image.png)](https://www.credly.com/badges/0569f76f-e67f-4ef6-85a4-3daae6449c7a)
 [![Double VCP - Cloud Management & Desktop Mobility](https://images.credly.com/size/80x80/images/1535e81b-09a3-4853-9e30-b3f01a1b0aaf/image.png)](https://www.credly.com/badges/8a106809-b214-4fb2-82ee-b7142a431446)
 [![Double VCP - Data Center Virtualization & Cloud Management](https://images.credly.com/size/80x80/images/b4c043e3-b159-41aa-849f-f6e3f9060ca3/image.png)](https://www.credly.com/badges/32b859a5-e15b-479f-b2f4-4254df260dde)
@@ -37,6 +36,7 @@ I'm a systems engineer and automation enthusiast with a strong focus on building
 [![ZCP: Enterprise Engineer (Zerto 8)](https://images.credly.com/size/80x80/images/f4977102-572e-49b3-9157-afe8eb96bc49/PROFESSIONAL-ENTERPRISE-ENGINEER_copy.png)](https://www.credly.com/badges/a3e128b8-8df1-491e-8b34-61439245ef96)
 [![Double VCP - Network Virtualization & Desktop Mobility](https://images.credly.com/size/80x80/images/8734dfca-5c84-4fa5-841f-1e3b1694f1e6/image.png)](https://www.credly.com/badges/4ee3685a-2ce2-46b7-9aac-ce3b501ee9c0)
 [![VMware vSphere 6.5 Foundations](https://images.credly.com/size/80x80/images/081d54b5-d010-4062-a323-b17758606f2a/vmware_knowledge_vsphere6.png)](https://www.credly.com/badges/ceb88606-1711-4034-99e4-31721fdbb6c5)
+[![CKA: Certified Kubernetes Administrator](https://images.credly.com/size/80x80/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](https://www.credly.com/badges/83866c55-20f3-4213-bf06-b666a70556be)
 [![VMware Certified Professional - Cloud Management and Automation 2023](https://images.credly.com/size/80x80/images/0816634d-110a-4c32-834f-318d4d5803f0/image.png)](https://www.credly.com/badges/c36d922a-8ed1-4156-a1ca-4af67e18e48c)
 [![VMware Certified Professional - VMware Cloud 2023](https://images.credly.com/size/80x80/images/b8f9991f-cf5d-4485-a4a4-0edac417eab7/image.png)](https://www.credly.com/badges/5942562e-fb6b-4aa1-861b-335c1409a2bb)
 [![VMware Certified Professional - Data Center Virtualization 2022](https://images.credly.com/size/80x80/images/5287aa23-f179-46a9-9683-678077d3aa45/image.png)](https://www.credly.com/badges/178389fe-0106-449a-9924-8add1581d419)
